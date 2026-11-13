@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Uploaded videos
+uploads/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Generated alerts
+alerts/*.mp4
+alerts/*.avi
+alerts/*.mov
+alerts/*.mkv
+
+# IDE
+.vscode/
+
+# Environment/secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
